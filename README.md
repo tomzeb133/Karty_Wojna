@@ -1,2 +1,2 @@
-# Karty_Wojna
-Cards War Game for College Project
+# War_Cards_Game
+War_Cards_Game for College Project
