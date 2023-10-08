@@ -1,2 +1,2 @@
 # War_Cards_Game
-War_Cards_Game for College Project
+War cards game in C++ as conosole app for college project
